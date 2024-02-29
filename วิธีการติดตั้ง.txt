@@ -1,0 +1,16 @@
+
+---INSTALLING REQUIRED PACKAGES---
+
+pip install opencv-python
+
+pip install numpy
+
+pip install face_recognition
+
+
+---ถ้าใช้ conda---
+
+conda activate myenv
+
+conda install -c conda-forge dlib
+
